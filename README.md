@@ -1,16 +1,19 @@
-## Hi there 👋
+# Wonbin (Sophia) Bae
 
-<!--
-**Sophie725/Sophie725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physics simulation & reinforcement learning for legged locomotion** | MuJoCo · Python · C++
 
-Here are some ideas to get you started:
+I'm a Biomedical Engineering student (CS minor) at UC Irvine, researching in the Neuromechanics Lab (PI: Monica Daley).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- **Real-to-sim:** turning guinea fowl motion-capture and force-plate data into physics simulation models
+- **Model design:** built a bipedal MuJoCo (MJCF) model from experimental kinematics after an earlier model couldn't support dynamic jumping
+- **Reinforcement learning:** trained PPO agents that achieve dynamic jumping, with custom reward design
+- First-author abstract accepted at SICB 2027
+
+Research code will be shared here once approved by the lab.
+
+### Tech
+MuJoCo (MJCF) · Python · C++ · PPO / Stable-Baselines3 · Pandas / NumPy · MATLAB
+
+### Contact
+[LinkedIn](https://linkedin.com/in/wonbin-sophia) · barbie147083@gmail.com
